@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd /home/zzh294/mycode/BMC_Codes/BMC_code
+cd /home/zzh294/newcode/BMC_Codes/BMC_code
 
 ./myMCMC 2501 5000 > flux_7501_10000.txt &
 

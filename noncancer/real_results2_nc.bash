@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd /home/zzh294/mycode/BMC_Codes/noncancer
+cd /home/zzh294/newcode/BMC_Codes/noncancer
 
 ./myMCMC 2501 5000 &
 
